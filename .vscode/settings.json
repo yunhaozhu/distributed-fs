@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "ufs.h": "c",
+        "unistd.h": "c",
+        "mfs.h": "c",
+        "assert.h": "c",
+        "message.h": "c",
+        "stdio.h": "c",
+        "select.h": "c",
+        "in.h": "c",
+        "time.h": "c",
+        "mman.h": "c",
+        "utility": "c"
+    }
+}
